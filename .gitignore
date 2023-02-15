@@ -1,0 +1,8 @@
+# do not gitignore temp, hidden (`.`), backup files (`thumb`, `~`,...)
+# since files named that way are legitimate parts of tests
+
+package-lock.json
+
+temp*/
+test-folder*/
+test-følder*/
