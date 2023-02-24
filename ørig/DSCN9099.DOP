@@ -1,0 +1,32 @@
+Sidecar = {
+	Date = "2023-02-23T14:22:35.5325238Z",
+	Software = "DxO PhotoLab 6.3.1",
+	Source = {
+		CafId = "C15516a",
+		Items = {
+			{
+			Albums = "",
+				CreationDate = "2023-02-23T13:32:03.9756432Z",
+				IPTC = {
+				}
+				,
+				Keywords = {
+				}
+				,
+				ModificationDate = "2023-02-23T14:22:35.5085389Z",
+				Name = "PM5A2144.cr2",
+				Orientation = 1,
+				OutputItems = {
+					{
+						CreationDate = "2023-02-23T14:22:12.4218335Z",
+							Name = "PM5A2144dx.jpg",
+							OutputFormat = {
+							}
+							,
+							Uuid = "7E34F7A4-B748-BEEF-F000-94BF40D299A7",
+					}
+				}
+			}
+		}
+	}
+}
