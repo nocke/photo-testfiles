@@ -1,8 +1,10 @@
-# do not gitignore temp, hidden (`.`), backup files (`thumb`, `~`,...)
+# do NOT gitignore temp, hidden (`.`), backup files (`thumb`, `~`,...)
 # since files named that way are legitimate parts of tests
 
 package-lock.json
 
+/node_modules
+Link to*
 temp*/
 test-folder*/
 test-følder*/
