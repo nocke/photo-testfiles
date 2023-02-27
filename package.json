@@ -1,6 +1,6 @@
 {
   "name": "photo-testfiles",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a set of test photos and videos (and mock sidecar and temp files) for testing of github.com/nocke/photo",
-	"license": "MIT"
+  "license": "MIT"
 }
